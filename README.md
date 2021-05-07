@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **[Mail Me ✉](mailto:rohit.prasad95@outlook.com)**
 
-- 📄 Know about my experiences [Resume](https://github.com/RohitPr/RohitPr/resume/RohitPrasad.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/RohitPr/RohitPr/RohitPrasad.pdf)
 
 - ⚡ Fun fact **Love pizzas as much I do? Let's talk about how awesome they are!**
 
