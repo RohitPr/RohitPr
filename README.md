@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitpr" alt="rohitpr" /></a> </p>
 
-- 🔭 I’m currently working on **Python & Machine Learning**
+- 🔭 I’m currently working on **Python & SQL**
 
-- 🌱 I’m currently learning **Azure Data Engineering**
+- 🌱 I’m currently learning **Big Data Engineering**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Big Data Projects**
 
-- 🤝 I’m looking for help with **Statistics**
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/RohitPr?tab=repositories)
 
