@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohit-prasad-55a55690/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rohit-prasad-55a55690/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rohit.prasad95/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/nitinn_prasad/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-pr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rohit-prasad-55a55690/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rohit.prasad95/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rohit.prasad95/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/RohitPr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/RohitPr" height="30" width="40" /></a>
 <a href="https://leetcode.com/RohitPr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/RohitPr/" height="30" width="40" /></a>
 </p>
